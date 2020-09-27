@@ -1,5 +1,5 @@
 .apik{
 	color: blue;
-	font-family: sans-serif;
+	font-family: arial;
 	text-align: center;
 }
