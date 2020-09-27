@@ -1,5 +1,5 @@
 h1{
-	color: orange;
+	color: blue;
 	font-family: sans-serif;
 	text-align: center;
 }
